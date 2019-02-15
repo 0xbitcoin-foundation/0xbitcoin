@@ -1,0 +1,2 @@
+# 0xbitcoin
+Dự án hoạt động 0xBitcoin
